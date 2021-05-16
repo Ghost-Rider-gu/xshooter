@@ -1,0 +1,15 @@
+{
+  "name": "xshooter",
+  "version": "1.0.0",
+  "description": "A simple JavaScript game just for fun",
+  "main": "xshooter.js",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iurii Golubnichenko aka Ghost Rider",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
